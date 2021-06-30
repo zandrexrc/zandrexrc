@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and software development
 - 🌱 I’m currently learning React Native and Swift
 - 🖥 Learn more about me on my [personal website](https://www.zandrexrc.me/)
-- 📫 Contact me @ zandrexrc@gmail.com
+- 👇 Check out some of my projects below
 
 <!---
 zandrexrc/zandrexrc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
