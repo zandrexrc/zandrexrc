@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zandrex
-- 👀 I’m interested in web and software development
+- 👀 I’m interested in web and mobile app development
 - 🌱 I’m currently learning React Native and Swift
 - 🖥 Learn more about me on my [personal website](https://www.zandrexrc.me/)
 - 👇 Check out some of my projects below
